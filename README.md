@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeFiDegenDude
-- 👀 I’m interested in Crypto and DeFi
-- 🌱 I’m currently learning
+- 👀 I’m interested in decentralized finance and rust
+- 🌱 I’m currently learning Python and Rust
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: 91not90 discord
 - 😄 Pronouns: He/Him

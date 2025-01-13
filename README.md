@@ -5,6 +5,7 @@
 - 📫 How to reach me: 91not90 discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love airdrops :)
+- 😭 Sadly I only post what I have made myself so nothing fun here
 
 <!---
 DeFiDegenDude/DeFiDegenDude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

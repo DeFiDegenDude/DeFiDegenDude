@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeFiDegenDude
+- 👋 Hi, I’m Papa Hyperboloid
 - 👀 I’m interested in decentralized finance and rust
 - 🌱 I’m currently learning Python and Rust
 - 💞️ I’m looking to collaborate on anything easy
